@@ -1,1 +1,2 @@
 # 394-hw1
+This R code provides examples of performing statistical computations and generating random numbers using various functions and techniques. It covers topics such as calculating mean, standard deviation, and length of a dataset, filtering elements based on specified conditions, working with matrices, generating random integers, and simulating multinomial distributions. The code snippets are accompanied by explanations and comments for better understanding.
